@@ -112,3 +112,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+kc_house_data.csv
