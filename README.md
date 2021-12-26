@@ -3,7 +3,7 @@
 
 <h1> House Sales Data Analysis </h1>
 
-<p>This project is to exercise my skills in python for data analysis</p>
+<p>This is a study project using fictional data from Kaggle, available in http://kaggle.com/harlfoxem/housesalesprediction </p>
 
 <h2> 📚 1 - Exercises included </h2>
 <p>Some examples available in the notebook:</p>
@@ -47,4 +47,11 @@
  <li>multiprocessing</li>
  <li>plotly</li>
  <li>ipywidgets</li>
+</ul>
+
+<h2> 🚀 3 - Next Steps </h2>
+<ul>
+ <li>Use the project data to find valuable business insights.</li>
+ <li>Publish the findings using Streamlit and Heroku.</li>
+ <li>Organize the code using functions.</li>
 </ul>
